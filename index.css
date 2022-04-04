@@ -1,0 +1,109 @@
+body{
+    background: linear-gradient(90deg, rgba(112,164,136,1) 3%, rgba(10,104,119,1) 25%, rgba(72,171,130,1) 69%, rgba(74,164,182,1) 84%, rgba(79,255,220,1) 96%);
+}
+
+/* For index.html */
+.main{
+    
+    margin: 70px 100px;
+    background-color: whitesmoke;
+
+}
+
+.meds_img{
+    height: 100px;
+    
+}
+.submit_btn_login{
+    background-color : rgb(37, 212, 212);
+    color: white;
+
+}
+.img_div{
+    height: 600px;
+    width: auto;
+}
+.img_ac{
+    height: 100%;
+    width: auto;
+}
+.btn_signup{
+    color: white;
+    background-color: aquamarine;
+    border: 0;
+}
+
+#signup_link{
+    color:rgb(0, 190, 194);
+    text-decoration: none;
+}
+
+.form_temp{
+    padding-left:20px;
+}
+
+
+
+
+/* For signUp.html */
+
+
+.signup_main{
+    
+    margin: 70px 100px;
+    background-color: whitesmoke;
+
+}
+
+.signUp_form{
+   margin-left : 20px; 
+}
+
+.signUp_common_frmcntrl{
+    width: 500px;
+}
+
+.create_Acc_btn{
+    color: white;
+    background-color: aquamarine;
+    border: 0;
+    width: 500px;
+    margin-left:71px;
+}
+
+
+.logo{
+    margin-left : 2rem;
+}
+
+.avatar{
+    height: 50px;
+    width: 50px;
+    margin-right : 2rem;
+}
+
+.main_container{
+    width: 1494px;
+}
+
+
+.cross{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left : 900px;
+    z-index: 1;
+    
+}
+
+.Heading{
+    margin-top: 20px;
+    margin-left : 50px;
+}
+.temp_class_header{
+    margin-top: 30px;
+}
+
+#heading{
+    font-size: larger;
+}
